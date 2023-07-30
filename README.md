@@ -4,7 +4,7 @@
 
 > Projeto: https://youtu.be/SjtdH3dWLa8
 >
-> <img align="center" src=“https://github.com/nOpfiNe/Pokedex/assets/104026303/4a23b437-9779-4e50-a310-884807af615f” alt=“Pokedex”>
+> <img align="center" src=“![Pokedex](https://github.com/nOpfiNe/Pokedex/assets/104026303/5dc40fdb-9748-4928-8611-30af03e6bc00)">
 
 > :video_game: Link pagina: https://nopfine.github.io/Pokedex/
 
